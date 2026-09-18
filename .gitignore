@@ -1,0 +1,15 @@
+node_modules
+.vercel
+.tanstack
+.nitro
+.grok
+screenshots
+artifacts
+*.log
+.DS_Store
+.project_id
+.node_modules.lock
+.env
+.env.*
+!.env.example
+attachments
